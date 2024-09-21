@@ -1,0 +1,11 @@
+{
+  "name": "iheler",
+  "version": "1.0.0",
+  "description": "A Node.js module for displaying HTML, creating basic app servers, reading and downloading HTML, and making servers with custom URIs.",
+  "main": "src/iheler.js",
+  "scripts": {
+    "start": "node src/iheler.js"
+  },
+  "author": "BubbuDert",
+  "license": "MIT"
+}
